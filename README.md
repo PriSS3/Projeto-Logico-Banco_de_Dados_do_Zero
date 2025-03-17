@@ -1,5 +1,5 @@
-# Esquema-conceitual-DIO
-Projeto feito em BootCamp
+# Esquema-conceitual
+Projeto feito em BootCamp da DIO
 Objetivo:
 Criar o esquema conceitual para o contexto de oficina com base na narrativa fornecida
 
