@@ -24,5 +24,5 @@ Apoís a criação do esquema lógico, realizar a criação do Script SQL para c
 - Condições de filtros aos grupos – HAVING Statement;
 - Crie junções entre tabelas para fornecer uma perspectiva mais complexa dos dados;
  
-Ferramentas:
+Ferramentas utilizadas:
 - MySQL Workbench
