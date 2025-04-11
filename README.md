@@ -2,6 +2,7 @@
 Projeto feito em BootCamp da DIO.
 Objetivo:
 Criar o esquema conceitual para o contexto de oficina com base na narrativa fornecida
+
 Criar um esquema lógico a partir do conceitual
 
 Narrativa do esquema conceitual:
