@@ -17,12 +17,12 @@ Narrativa do esquema conceitual:
 
 Apoís a criação do esquema lógico, realizar a criação do Script SQL para criação do esquema do banco de dados. Posteriormente, realizando a persistência de dados para realização de testes.
 
-Recuperações simples com SELECT Statement;
-Filtros com WHERE Statement;
-Crie expressões para gerar atributos derivados;
-Defina ordenações dos dados com ORDER BY;
-Condições de filtros aos grupos – HAVING Statement;
-Crie junções entre tabelas para fornecer uma perspectiva mais complexa dos dados;
+- Recuperações simples com SELECT Statement;
+- Filtros com WHERE Statement;
+- Crie expressões para gerar atributos derivados;
+- Defina ordenações dos dados com ORDER BY;
+- Condições de filtros aos grupos – HAVING Statement;
+- Crie junções entre tabelas para fornecer uma perspectiva mais complexa dos dados;
  
 Ferramentas:
 - MySQL Workbench
