@@ -1,7 +1,8 @@
 # Projeto Lógico de Banco de Dados do Zero
 Projeto feito em BootCamp da DIO.
 Objetivo:
-Criar o esquema conceitual para o contexto de oficina com base na narrativa fornecida
+Criar o esquema conceitual para o contexto de oficina com base na narrativa fornecida.
+
 Sistema para a gestão de ordens de serviço (OS) em oficinas mecânicas, que inclui o registro de clientes, veículos, equipes, mecânicos e itens (peças e mão de obra).
 
 Criar um esquema lógico a partir do conceitual
